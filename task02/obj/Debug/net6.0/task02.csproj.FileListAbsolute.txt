@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\bin\Debug\net6.0\task02.exe
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\bin\Debug\net6.0\task02.deps.json
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\bin\Debug\net6.0\task02.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\bin\Debug\net6.0\task02.dll
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\bin\Debug\net6.0\task02.pdb
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\task02.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\task02.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\task02.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\task02.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\task02.dll
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\refint\task02.dll
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\task02.pdb
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\task02.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task02\obj\Debug\net6.0\ref\task02.dll
