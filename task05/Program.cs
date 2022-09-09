@@ -10,7 +10,7 @@
 //Console.WriteLine(number[1]);
 
 //Вариант 2
-int number = new Random().Next(99, 1000);
+int number = new Random().Next(100, 1000);
 Console.WriteLine(number);
 string num2 = Convert.ToString(number);
 Console.WriteLine(num2[1]);
