@@ -4,20 +4,15 @@
 //32679 -> 6
 
 Console.WriteLine("введите целое число");
-//int number = int.Parse(Console.ReadLine());
 int num = Math.Abs(int.Parse(Console.ReadLine()));
-
-//Console.WriteLine(Math.Abs(int.Parse(Console.ReadLine())));
-//int num = int.Parse(Console.ReadLine());
 if (num < 100)
 {
 Console.WriteLine("Увы, нет 3й цифры");
 }
 else 
 {
-Console.WriteLine(num);
-
-string num2 = Console.ReadLine();
+//Console.WriteLine(num);
+string num2 = Convert.ToString(num);
 Console.WriteLine(num2[2]);
 }
  
