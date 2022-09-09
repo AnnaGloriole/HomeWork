@@ -16,6 +16,7 @@ Console.WriteLine("Увы, нет 3й цифры");
 else 
 {
 Console.WriteLine(num);
+
 string num2 = Console.ReadLine();
 Console.WriteLine(num2[2]);
 }
