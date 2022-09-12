@@ -2,18 +2,6 @@
 //3 -> 1, 8, 27
 //5 -> 1, 8, 27, 64, 125
 
-// Console.WriteLine("Введите число");
-// int num = int.Parse(Console.ReadLine()!);
-// for (int i = 1; i <= num; i++)
-// {
-//     int Cube = i * i * i;
-//     if (i == num)
-//     {
-//         Console.Write(Cube);
-//     }
-//     else Console.Write($"{Cube}, ");
-// }
-
 int num = new Random().Next(1, 1000);
 Console.WriteLine(num);
 for (int i = 1; i <= num; i++)
