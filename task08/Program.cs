@@ -3,27 +3,22 @@
 //12821 -> да
 //23432 -> да
 
-//Console.WriteLine("введите 5ти значное число");
-//string number = Console.ReadLine ();
-//if (number[0] == number[4] && number[1] == number[3])
-//{
-//    Console.WriteLine("Да");
-//}
-//else
-//{
-//    Console.WriteLine("Нет");
-//}
-
-Console.WriteLine("введите 5ти значное число");
-int number = Math.Abs(int.Parse(Console.ReadLine()));
-Console.WriteLine(number);
-string num2 = Convert.ToString(number);
-if (num2[0] == num2[4] && num2[1] == num2[3])
+try
 {
-    Console.WriteLine("Да");
+    Console.WriteLine("input five-digit number");
+    int number = Math.Abs(int.Parse(Console.ReadLine()!));
+    Console.WriteLine(number);
+    string num2 = Convert.ToString(number);
+    if (num2[0] == num2[4] && num2[1] == num2[3])
+    {
+        Console.WriteLine("Yes, of course");
+    }
+    else
+    {
+        Console.WriteLine("No");
+    }
 }
-else
+catch
 {
-    Console.WriteLine("Нет");
+    Console.WriteLine("it's not correct number");
 }
-//else if ()
