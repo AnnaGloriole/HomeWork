@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\homework\\task12\\task12.csproj": {}
+    "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\HomeWork\\task12\\task12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\homework\\task12\\task12.csproj": {
+    "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\HomeWork\\task12\\task12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\homework\\task12\\task12.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\HomeWork\\task12\\task12.csproj",
         "projectName": "task12",
-        "projectPath": "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\homework\\task12\\task12.csproj",
+        "projectPath": "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\HomeWork\\task12\\task12.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\homework\\task12\\obj\\",
+        "outputPath": "C:\\Users\\Пользователь\\Desktop\\Анин Geek\\HomeWork\\task12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"

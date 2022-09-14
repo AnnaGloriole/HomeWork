@@ -5,8 +5,8 @@
 //Console.WriteLine("Hello, World!");
 
 Console.WriteLine("input integer numA numB");
-    string AB = Console.ReadLine()!;
-    string[] parts = AB.Split(' ');
+    string numbersAB = Console.ReadLine()!;
+    string[] parts = numbersAB.Split(' ');
     int numA = int.Parse(parts[0]);
     int numB = int.Parse(parts[1]);
     int result = 1;
