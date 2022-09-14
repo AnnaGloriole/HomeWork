@@ -2,4 +2,16 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-Console.WriteLine("Hello, World!");
+//Console.WriteLine("Hello, World!");
+
+Console.WriteLine("input integer numA numB");
+    string AB = Console.ReadLine()!;
+    string[] parts = AB.Split(' ');
+    int numA = int.Parse(parts[0]);
+    int numB = int.Parse(parts[1]);
+    int result = 1;
+for (int i = 0; i < numB; i++)
+    {
+        result *= numA;
+    }
+Console.WriteLine(result);
