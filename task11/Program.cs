@@ -2,8 +2,6 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-//Console.WriteLine("Hello, World!");
-
 Console.WriteLine("input integer numA numB");
     string numbersAB = Console.ReadLine()!;
     string[] parts = numbersAB.Split(' ');
