@@ -10,11 +10,13 @@ int[] arrInt = new int[num2.Length];
 int sum = 0;
 for (int i = 0; i < num2.Length; i++)
 {
-    arrInt[i] = int.Parse(num2[i] + "");
+    arrInt[i] = int.Parse(num2[i] + ""); // Подскажите, пожалуйста, почему недостаточно int.Parse(num2[i]) и нужно добавлять + ""?
+// Также почему Convert.ToInt32() конвертирует двузначное число?
     sum += arrInt[i];
 }
 Console.Write($"Sum = {string.Join(" + ", arrInt)} = {sum}");
 
+// можно и так:
 // Comment1:
 
 // int sum = 0;
