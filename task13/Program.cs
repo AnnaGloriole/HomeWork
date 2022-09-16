@@ -38,7 +38,6 @@ void PrintArray(int[] array)
 //     {
 //         arrInt[i] = int.Parse(Console.ReadLine());
 //     }
-
 //     return arrInt;
 // }
 
