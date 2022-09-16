@@ -6,10 +6,10 @@ int num = new Random().Next(1, 1000);
 Console.WriteLine(num);
 for (int i = 1; i <= num; i++)
 {
-    int Cube = i * i * i;
+    int cube = i * i * i;
     if (i == num)
     {
-        Console.Write(Cube);
+        Console.Write(cube);
     }
-    else Console.Write($"{Cube}, ");
+    else Console.Write($"{cube}, ");
 }
