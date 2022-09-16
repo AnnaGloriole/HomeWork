@@ -1,21 +1,48 @@
 ﻿// Задача 29: Пользователь вводит 8 чисел. Поместите их в массив и распечатайте.
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 // 6, 1, 33 -> [6, 1, 33]
-Console.WriteLine("input array elements");
 
 
-// int[] CreateArray (int size) {
-// int[] numBool = new int[size];
-// for (int i = 0; i < size; i++)
+// Вариант 1 общий случай для введения массива вручную. Подскажите, пожалуйста, почему при такой последовательности [2 3 555 2 3 ] выдает ошибку?
+
+PrintArray(InputArray());
+
+int[] InputArray()
+{
+    Console.WriteLine("input array elements. please use split to do it");
+    string elements = Console.ReadLine()!;
+    string[] parts = elements.Split(' ');
+    int[] arrInt = new int[parts.Length];
+    for (int i = 0; i < parts.Length; i++)
+    {
+        arrInt[i] = int.Parse(parts[i]);
+    }
+    return arrInt;
+}
+
+void PrintArray(int[] array)
+{
+    Console.WriteLine($"[{string.Join(", ", array)}]");
+}
+
+// для 8 элементов
+
+// int[] NewArray = InputArray(8);
+// PrintArray(NewArray);
+
+// int[] InputArray(int Length)
 // {
-// numBool[i] = new Random().Next(0, 2);
-// }
-// return numBool;
+//     Console.WriteLine("input array elements");
+//     int[] arrInt = new int[Length];
+//     for (int i = 0; i < Length; i++)
+//     {
+//         arrInt[i] = int.Parse(Console.ReadLine());
+//     }
+
+//     return arrInt;
 // }
 
-// void PrintArray (int[] array) {
-// Console.WriteLine ($"[{string.Join (", ", array)}]");
+// void PrintArray(int[] array)
+// {
+//     Console.WriteLine($"[{string.Join(", ", array)}]");
 // }
-
-
-// PrintArray (CreateArray (8));
