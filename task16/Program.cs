@@ -38,11 +38,16 @@ PrintArray(result);
 
 void PrintArray(double[] array)
 {
-    Console.Write($"[{string.Join(" , ", array)}] max [{Max(result)}] - min [{Min(result)}] = {subtraction}");
+    Console.WriteLine($"[{string.Join(" , ", array)}]");
 }
 
+Console.Write($"max [{Max(result)}] - min [{Min(result)}] = {subtraction}");
 
-// Можно ли вывести 2 значения сразу мин и макс? Если да - то каким образом?
+// Правильно ли я понимаю, что double или float массив созданный с помощью Random.Next содержит, но не отображает цифры после запятой?
+// Для отображения в этом случае Math.Round не подходит? Что может помочь?
+
+// Вопрос 2 
+// Можно ли вывести 2 значения сразу мин и макс, если объединить функции в одну? Если да - то каким образом?
 
 // double MaxMin(double[] IArray, out double min, out double max)
 // {
