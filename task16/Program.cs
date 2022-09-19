@@ -43,6 +43,7 @@ void PrintArray(double[] array)
 
 Console.Write($"max [{Max(result)}] - min [{Min(result)}] = {subtraction}");
 
+// Вопрос 1
 // Правильно ли я понимаю, что double или float массив созданный с помощью Random.Next содержит, но не отображает цифры после запятой?
 // Для отображения в этом случае Math.Round не подходит? Что может помочь?
 
