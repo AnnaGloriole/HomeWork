@@ -32,8 +32,10 @@ PrintArray(result);
 
 void PrintArray(int[] array)
 {
-    Console.Write($"[{string.Join(" , ", array)}] quantity even numbers = {GetQauntity(result)}");
+    Console.Write($"[{string.Join(" , ", array)}]");
 }
+
+Console.Write($" quantity even numbers = {GetQauntity(result)}");
 
 //вариант 2 через foreach
 
