@@ -7,7 +7,7 @@ int[] InputArray(int length)
     int[] Array = new int[length];
     for (int i = 0; i < length; i++)
     {
-        Array[i] = new Random().Next(-100, 100);
+        Array[i] = new Random().Next(-99, 100);
     }
     return Array;
 }
@@ -32,3 +32,24 @@ void PrintArray(int[] array)
 }
 
 Console.Write($" Sum numbers uneven index = {Getsum(result)}");
+
+// Второй вариант создания массива случайных чисел
+
+// int[] CreateArray(int size)
+// {
+//     int[] numBool = new int[size];
+//     for (int i = 0; i < size; i++)
+//     {
+//         numBool[i] = new Random().Next(-99, 100);
+//     }
+//     return numBool;
+// }
+
+// int[] result = CreateArray(4);
+
+// PrintArray(result);
+
+// void PrintArray(int[] array)
+// {
+//     Console.Write($"[{string.Join(" , ", array)}]");
+// }
