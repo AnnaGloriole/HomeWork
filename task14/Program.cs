@@ -13,7 +13,7 @@ int[] InputArray(int length)
     return Array;
 }
 
-int Getsum(int[] IArray)
+int GetQauntity(int[] IArray)
 {
     int sum = 0;
     for (int n = 0; n < IArray.Length; n++)
@@ -32,9 +32,8 @@ PrintArray(result);
 
 void PrintArray(int[] array)
 {
-    Console.Write($"[{string.Join(" , ", array)}] Sum odd index = {Getsum(result)}");
+    Console.Write($"[{string.Join(" , ", array)}] quantity even numbers = {GetQauntity(result)}");
 }
-
 
 //вариант 2 через foreach
 
