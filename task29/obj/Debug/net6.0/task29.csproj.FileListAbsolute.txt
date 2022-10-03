@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\task29.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\task29.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\task29.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\task29.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\bin\Debug\net6.0\task29.exe
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\bin\Debug\net6.0\task29.deps.json
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\bin\Debug\net6.0\task29.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\bin\Debug\net6.0\task29.dll
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\bin\Debug\net6.0\task29.pdb
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\task29.dll
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\refint\task29.dll
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\task29.pdb
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\task29.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Анин Geek\HomeWork\task29\obj\Debug\net6.0\ref\task29.dll
